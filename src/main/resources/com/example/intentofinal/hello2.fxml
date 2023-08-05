@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: RED;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.intentofinal.Hello2">
+   <children>
+      <AnchorPane layoutY="100.0" prefHeight="200.0" prefWidth="694.0" style="-fx-background-color: BLUE;">
+         <children>
+            <Label layoutX="75.0" layoutY="48.0" text="¡YA ESTAS DENTRO DEL CLUB!" textFill="WHITE">
+               <font>
+                  <Font name="Comic Sans MS" size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="199.0" layoutY="118.0" text="¡VISCA BARCA!" textFill="WHITE">
+               <font>
+                  <Font name="Palatino Linotype" size="40.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: YELLOW;" />
+      <AnchorPane layoutX="289.0" layoutY="375.0" prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: YELLOW;" />
+      <AnchorPane layoutY="22.0" prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: ORANGE;" />
+      <AnchorPane layoutY="44.0" prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: YELLOW;" />
+      <AnchorPane layoutX="289.0" layoutY="353.0" prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: ORANGE;" />
+      <AnchorPane layoutX="289.0" layoutY="331.0" prefHeight="21.0" prefWidth="310.0" style="-fx-background-color: YELLOW;" />
+   </children>
+</AnchorPane>
